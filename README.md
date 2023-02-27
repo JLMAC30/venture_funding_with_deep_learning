@@ -1,5 +1,3 @@
-Sure, here's an example of a README file for the charity donation project:
-
 # Charity Donation Neural Network
 This project is a machine learning model built to predict whether applicants will be successful if funded by Alphabet Soup, a charity organization. The model uses a neural network with two hidden layers to process the input data and output a binary classification. The dataset used to train and test the model is provided by Alphabet Soup and contains more than 34,000 organizations that have received funding in the past.
 
